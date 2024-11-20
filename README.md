@@ -1,9 +1,10 @@
 Hello, it's our new project "CounterCal"
 Out team: 
-1. Morozov
-2. Sharifullina
-3. Vakulsky Grigory
-4. Satubaldeeva
+1. Krupenkin
+2. Aslanov
+3. Kovalchuk
+4. Kulikov
+5. Zavodov
 
 \
 To start work with project you need run:
